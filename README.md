@@ -5,4 +5,4 @@ In the editor, write a bit about yourself. Try using different Markdown elements
 
 # I SHALL ONLY USE ONE ELEMENT HA
 ## Nevermind I got bored of that one
-### Yeah I got bored of that one too. 
+### Yeah I got bored of that one as well. 
